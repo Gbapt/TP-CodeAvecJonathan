@@ -1,4 +1,7 @@
 """
+Exercice 1:
+
+
 Instructions :
 
 Vous allez créer deux variables :

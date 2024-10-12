@@ -1,6 +1,6 @@
 
 """
-Ligne vide et concaténation
+Exercice: Ligne vide et concaténation
 
 
 Instructions :
